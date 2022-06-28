@@ -1,1 +1,1 @@
-# CS499_Capston
+# CS499_Capstone
